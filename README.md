@@ -4,7 +4,7 @@ A clean, single-page CV/resume website built with HTML and CSS, optimized for so
 
 ## 🚀 Live Demo
 
-**Project URL**: https://vanilao.github.io/single-page-career-view/
+**Project URL**: https://roadmap.sh/projects/single-page-cv
 
 **GitHub Repository**: https://github.com/vanilao/single-page-career-view/tree/master
 
